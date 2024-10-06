@@ -13,6 +13,7 @@ Esta é uma API para gerenciar notícias, permitindo criar, listar, atualizar e 
 
 1. Clone o repositório:
    ```bash
+   https://github.com/GabrielMarques1/API-Jornal.git
 
 
    ```
