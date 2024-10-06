@@ -13,8 +13,8 @@ Esta é uma API para gerenciar notícias, permitindo criar, listar, atualizar e 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/skrodrigo/news.crud.api.git
-   cd news.crud.api
+
+
    ```
 
 2. Instale as dependências:
